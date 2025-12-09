@@ -1,0 +1,1 @@
+This folder contains resources for Deep learning Model 2.
